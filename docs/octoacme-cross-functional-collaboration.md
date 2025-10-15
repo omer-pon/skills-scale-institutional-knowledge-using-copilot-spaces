@@ -23,13 +23,13 @@ Reference this guide when coordinating work across multiple roles, planning cros
 ### Feature Development Flow
 
 **Typical Sequence:**
-1. **Product Manager** defines feature requirements and success metrics
-2. **UX Designer** creates user flows and design specifications
-3. **Security Lead** reviews for security implications
-4. **Developers** implement feature with design and security guidance
-5. **DevOps Engineer** ensures CI/CD pipeline supports deployment
-6. **Project Manager** coordinates timeline, dependencies, and status updates
-7. **Customer Success Manager** validates with customer needs and prepares for rollout
+1. **Product Manager** defines feature requirements and success metrics.
+2. **UX Designer** creates user flows and design specifications.
+3. **Security Lead** reviews for security implications.
+4. **Developers** implement feature with design and security guidance.
+5. **DevOps Engineer** ensures CI/CD pipeline supports deployment.
+6. **Project Manager** coordinates timeline, dependencies, and status updates.
+7. **Customer Success Manager** validates with customer needs and prepares for rollout.
 
 **Key Touchpoints:**
 - Kickoff meeting with all roles present
@@ -41,12 +41,12 @@ Reference this guide when coordinating work across multiple roles, planning cros
 ### Incident Response Flow
 
 **Typical Sequence:**
-1. **DevOps Engineer** or Developer detects and triages incident
-2. **Project Manager** coordinates communication and status updates
-3. **Developers** and **DevOps Engineers** implement fixes
-4. **Security Lead** involved if security-related
-5. **Customer Success Manager** communicates with affected customers
-6. **Scrum Master** facilitates blameless postmortem
+1. **DevOps Engineer** or Developer detects and triages incident.
+2. **Project Manager** coordinates communication and status updates.
+3. **Developers** and **DevOps Engineers** implement fixes.
+4. **Security Lead** involved if security-related.
+5. **Customer Success Manager** communicates with affected customers.
+6. **Scrum Master** facilitates blameless postmortem.
 
 **Key Touchpoints:**
 - Incident declaration and triage call
@@ -58,13 +58,13 @@ Reference this guide when coordinating work across multiple roles, planning cros
 ### Sprint Planning Flow
 
 **Typical Sequence:**
-1. **Product Manager** prioritizes backlog items
-2. **UX Designer** provides design readiness status
-3. **Security Lead** flags any security work needed
-4. **Developers** estimate effort and identify technical dependencies
-5. **DevOps Engineer** confirms infrastructure and deployment capacity
-6. **Scrum Master** facilitates planning meeting
-7. **Project Manager** confirms resource availability and dependencies
+1. **Product Manager** prioritizes backlog items.
+2. **UX Designer** provides design readiness status.
+3. **Security Lead** flags any security work needed.
+4. **Developers** estimate effort and identify technical dependencies.
+5. **DevOps Engineer** confirms infrastructure and deployment capacity.
+6. **Scrum Master** facilitates planning meeting.
+7. **Project Manager** confirms resource availability and dependencies.
 
 **Key Touchpoints:**
 - Backlog refinement (PM, UX, Developers, Security)

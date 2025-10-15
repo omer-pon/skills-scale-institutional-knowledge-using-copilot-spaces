@@ -46,10 +46,10 @@ Define clear accountability and decision rights across roles using RACI (Respons
 | **Execution Phase** |
 | Feature implementation | C | I | A | C | I | C | I | I |
 | Code reviews | I | I | A/R | I | I | I | C | I |
-| Design implementation | C | I | R | I | A | I | I | I |
+| Design implementation | C | I | A | I | C | I | I | I |
 | Security reviews | I | I | C | I | I | C | A | I |
 | Infrastructure changes | I | C | C | I | I | A | C | I |
-| Daily standups | I | I | R | A | R | R | I | I |
+| Daily standups | I | I | R | A | C | I | I | I |
 | Sprint demos | C | C | R | A | R | I | I | C |
 | Status reporting | C | A | C | C | C | C | I | I |
 | Blocker resolution | C | A | R | R | C | C | C | I |
